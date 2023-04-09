@@ -38,7 +38,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Контрактные двигатели в Екатеринбурге-clone",
+    "name": "Контрактные двигатели в Санкт-Петербурге",
     "versionFirst": "5.5.8",
     "siteFonts": [
       {
@@ -98,7 +98,7 @@
       "enabled": false
     },
     "pwa-switcher": false,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "usedWebp": true
   },
   "pages": {
